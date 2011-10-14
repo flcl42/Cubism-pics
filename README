@@ -1,0 +1,9 @@
+Cybism pics project
+
+Hello, anybody who wants to help to this project.
+
+This project is a html5 canvas drawing game, where process of drawing consists of filling primitives, which's form depends on selected layer.
+
+1st layer is pairs of triangles in a count of squares
+2nd layer is dots and lines which coordinats are on 1st layer triangles' borders3rd layer is what you propose
+
